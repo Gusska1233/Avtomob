@@ -1,2 +1,0 @@
-# Avtomob
-Lesson VKN
